@@ -4,6 +4,7 @@
 
 - <b> React projects:</b>
   - [Youtube Clone](https://github.com/WiktorW0/youtube-clone)
+  - [Quizzical](https://github.com/WiktorW0/quizzical)
   - [Tenzies](https://github.com/WiktorW0/tenzies-game)
   - [Meme Generator](https://github.com/WiktorW0/meme-generator-alpha)
   
