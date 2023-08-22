@@ -12,6 +12,10 @@
   - [Airbnb clone](https://github.com/WiktorW0/airbnb-clone)
   - [Travel journal](https://github.com/WiktorW0/travel-journal)
   - [Mini profile card](https://github.com/WiktorW0/mini-profile-card)
+
+- <b>JS + TS projects:</b>
+  - [Task list](https://github.com/WiktorW0/task-list)
+
 - <b>JS projects:</b>
   - [Snake](https://github.com/WiktorW0/snake-game)
   - [Pong](https://github.com/WiktorW0/pong-game)
