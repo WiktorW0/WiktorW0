@@ -7,6 +7,7 @@
   - [Quizzical](https://github.com/WiktorW0/quizzical)
   - [Tenzies](https://github.com/WiktorW0/tenzies-game)
   - [Meme Generator](https://github.com/WiktorW0/meme-generator-alpha)
+  - [Nike landing page](https://github.com/WiktorW0/nike-landing-page)
   
 - <b>Small React projects:</b>
   - [Airbnb clone](https://github.com/WiktorW0/airbnb-clone)
