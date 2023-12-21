@@ -2,6 +2,9 @@
 
 <h2> 👨‍💻 Software Development Projects</h2>
 
+- <b> NextJS procjects:</b>
+  - [Promptopia](https://github.com/WiktorW0/promptopia-next)
+
 - <b> React projects:</b>
   - [Youtube Clone](https://github.com/WiktorW0/youtube-clone)
   - [Quizzical](https://github.com/WiktorW0/quizzical)
