@@ -18,7 +18,7 @@
   - [Mini profile card](https://github.com/WiktorW0/mini-profile-card)
 
 - <b>React + TS projects:</b>
-  - [Simple Shop](https://wiktorw0.github.io/simple-shop-ts/)
+  - [Simple Shop](https://github.com/WiktorW0/simple-shop-ts)
 
 - <b>JS + TS projects:</b>
   - [Task list](https://github.com/WiktorW0/task-list)
