@@ -2,7 +2,7 @@
 
 <h2> 👨‍💻 Software Development Projects</h2>
 
-- <b> NextJS procjects:</b>
+- <b> NextJS projects:</b>
   - [Promptopia](https://github.com/WiktorW0/promptopia-next)
 
 - <b> React projects:</b>
