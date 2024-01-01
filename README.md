@@ -4,6 +4,7 @@
 
 - <b> NextJS projects:</b>
   - [Promptopia](https://github.com/WiktorW0/promptopia-next)
+  - [Car-Hub](https://github.com/WiktorW0/car-hub)
 
 - <b> React projects:</b>
   - [Youtube Clone](https://github.com/WiktorW0/youtube-clone)
