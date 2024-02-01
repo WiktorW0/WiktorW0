@@ -2,7 +2,7 @@
 
 <h2> 👨‍💻 Software Development Projects</h2>
 
-- <b> NextJS projects:</b>
+- <b> Next.js projects:</b>
   - [Form Builder](https://github.com/WiktorW0/form-builder-next)
   - [Promptopia](https://github.com/WiktorW0/promptopia-next)
   - [Car-Hub](https://github.com/WiktorW0/car-hub)
