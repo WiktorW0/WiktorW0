@@ -22,7 +22,7 @@
 - <b>React + TS projects:</b>
   - [Simple Shop](https://github.com/WiktorW0/simple-shop-ts)
 
-- <b>JS + TS projects:</b>
+- <b>TypeScript projects:</b>
   - [Task list](https://github.com/WiktorW0/task-list)
 
 - <b>JS projects:</b>
